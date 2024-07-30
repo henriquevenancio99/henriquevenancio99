@@ -1,4 +1,4 @@
-## 👋 Sobre mim
+![image](https://github.com/user-attachments/assets/34648cc5-01ab-46fb-b8d7-c8a0318bf7e2)## 👋 Sobre mim
 
 Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido principalmente com as tecnologias do ecossistema .NET em uma cultura ágil de desenvolvimento. Prezo por boas práticas e princípios da programação.
 
@@ -11,12 +11,15 @@ Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido princip
 <summary>Cursos relavantes</summary>
 
 > - [**desenvolvedor.io**](https://desenvolvedor.io/certificado/7dc98d94-0dde-4ba9-85d7-9bbdd29f60a5) - Formação Arquiteto de Software
-> - [**desenvolvedor.io**](https://desenvolvedor.io/certificado/d3ee4024-ec91-41c4-bb87-0be76ac69761) - Iniciando com ASP .NET Core
-> - [**desenvolvedor.io**](https://desenvolvedor.io/certificado/5b21aca3-75bb-44da-b054-62f07f413e57) - Iniciando com EF Core
-> - [**Alura**](https://cursos.alura.com.br/degree/certificate/0be64390-382d-4a12-a673-4a895e2a342c) - Certificação C# programiming
-> - [**Alura**](https://cursos.alura.com.br/user/henriqvmc99/degree-certificacao-az-900-microsoft-azure-fundamentals-v156527-156527/certificate) - Certificação AZ-900
+> - [**alura**](https://cursos.alura.com.br/degree/certificate/0be64390-382d-4a12-a673-4a895e2a342c) - Certificação C# programiming
+> - [**alura**](https://cursos.alura.com.br/user/henriqvmc99/degree-certificacao-az-900-microsoft-azure-fundamentals-v156527-156527/certificate) - Certificação AZ-900
 > - [**balta.io**](https://balta.io/certificados/31e89911-a8b2-4637-bc9c-3241fd862b8f) - Modelando Domínios Ricos
 > - [**refactoring.guru**](https://refactoring.guru/cert/r/OTE0NTQ) - Dive Into Refactoring
+> - [**aws.training**](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=Tn1Ic5ZiXU2H-DSL-yLlww2) - AWS Technical Essentials Day
+> - [**aws.training**](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=OCPxAbZenUClQKbZUM9BIQ2) - Architecting on AWS
+> - [**aws.training**](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=8AnavsmfZkamibG3JrMlSQ2) - Developing on AWS
+> - [**aws.training**](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=6mpcP-bRIUKMxSNjjlV9AA2) - Developing Serveless Solutions on AWS
+
 
 </details>
 
