@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/34648cc5-01ab-46fb-b8d7-c8a0318bf7e2)## 👋 Sobre mim
+## 👋 Sobre mim
 
 Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido principalmente com as tecnologias do ecossistema .NET em uma cultura ágil de desenvolvimento. Prezo por boas práticas e princípios da programação.
 
