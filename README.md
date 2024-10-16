@@ -1,11 +1,11 @@
 ## 👋 Sobre mim
 
-Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido principalmente com as tecnologias do ecossistema .NET em uma cultura ágil de desenvolvimento. Prezo por boas práticas e princípios da programação.
+Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido principalmente com as tecnologias do ecossistema .NET em uma cultura ágil de desenvolvimento.
 
 ### 🎓 Formação Acadêmica:
-> - **IFSC** - Tecnólogo em Análise e Desenvolvimento de Sistemas _(2017~2020)_
-> - **Programa Entra21** - Formação em Desenvolvimento C# .NET _(2018)_
-> - **ETEC** - Técnico em Desenvolvimento de Sistemas _(2015~2016)_
+> - **IFSC** - Tecnólogo em Análise e Desenvolvimento de Sistemas 
+> - **Programa Entra21** - Formação em Desenvolvimento C# .NET
+> - **ETEC** - Técnico em Desenvolvimento de Sistemas
 
 <details>
 <summary>Cursos relavantes</summary>
@@ -42,7 +42,7 @@ Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido princip
 <br>
 
 ### Já trabalhei com os seguintes Frameworks:
-> [![Frameworks](https://skillicons.dev/icons?i=dotnet,react,bootstrap)](https://skillicons.dev)
+> [![Frameworks](https://skillicons.dev/icons?i=dotnet,react)](https://skillicons.dev)
 
 <details>
 
@@ -53,7 +53,6 @@ Analista Desenvolvedor desde 2018, minha experiência até aqui tem sido princip
 
 > **Frontend**
 > - **React** _(Conhecimento Intermediário)_
-> - **Bootstrap** _(Conhecimento Iniciante)_
 
 </details>
 
